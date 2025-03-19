@@ -50,5 +50,7 @@ public class ChatController {
            throw new RuntimeException("room not found");
        }
        return message;
+
+       
     }
 }
