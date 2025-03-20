@@ -27,7 +27,7 @@ Ensure you have the following installed:
 ### ⚙️ Setup & Execution
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/chat-app-backend.git
+   git clone https://github.com/NehaKanabar/ChatBox.git
    cd chat-app-backend
    ```
 2. **Install dependencies & build the project:**
